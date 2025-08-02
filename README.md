@@ -45,8 +45,7 @@ docker-compose up --build
 curl http://localhost:3000
 
 
-
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 # Optional DB check
